@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @rinithreddy14
+- 👀 I’m interested in data analytics, data engineering, and cloud technologies.
+- 🌱 I’m currently learning advanced SQL, Python for data analysis, and cloud infrastructure.
+- 💞️ I’m looking to collaborate on data-driven projects, especially in areas like data visualization, machine learning, and big data pipelines.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rinith-reddy-86822a301/) | [GitHub](https://github.com/rinithreddy14)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a big fan of tech innovations, and I also enjoy fitness and experimenting with lean bulk diets!
