@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @rinithreddy14
-- 👀 I’m interested in data analytics, data engineering, and cloud technologies.
-- 🌱 I’m currently learning advanced SQL, Python for data analysis, and cloud infrastructure.
-- 💞️ I’m looking to collaborate on data-driven projects, especially in areas like data visualization, machine learning, and big data pipelines.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rinith-reddy-86822a301/) | [GitHub](https://github.com/rinithreddy14)
+- 👀 I’m interested in data analytics, data engineering, cloud computing, and solving real-world problems using data.
+- 🌱 I’m currently learning advanced SQL, Python for data analysis (pandas, NumPy), data pipelines with cloud platforms (AWS, Azure), and machine learning basics.
+- 💼 I’ve worked on several data projects, including:
+  - **Crimes Against Women in India Analysis**: Analyzed crime patterns and trends using SQL, uncovering actionable insights on crime growth and regions with high incident rates.
+  - **E-commerce Sales Dashboard**: Built an interactive Power BI dashboard for 100,000+ sales records, analyzing peak sales periods, customer payment preferences, and delivery optimizations.
+  - **Telecom Analysis Dashboard**: Designed a Power BI dashboard for AtliQo, focusing on key performance indicators (KPIs) post-5G rollout to improve revenue and customer engagement.
+  - **Credit Card Fraud Detection**: Used Python to perform Exploratory Data Analysis (EDA) and identify fraud patterns in credit card transactions.
+- 🔧 Technical skills: 
+  - **Languages:** SQL, Python (pandas, NumPy, matplotlib), Power Query, DAX
+  - **Tools & Platforms:** Power BI, Excel, MySQL
+  - **Data Modeling & Analysis:** Data cleaning, data visualization, dashboarding, predictive analytics
+- 💞️ I’m looking to collaborate on:
+  - Data-driven projects in analytics, business intelligence, and machine learning.
+  - Open-source contributions related to data engineering and automation.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rinith-reddy-86822a301/) | [GitHub](https://github.com/rinithreddy14) | Email: rinithreddy14@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a big fan of tech innovations, and I also enjoy fitness and experimenting with lean bulk diets!
+- ⚡ Fun fact: I love learning about new technologies and how data shapes the world. Outside of tech, I'm passionate about fitness and maintaining a lean bulk diet.
